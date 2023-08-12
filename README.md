@@ -7,6 +7,7 @@
   <img src="./assets/gif3.gif" alt="jaiswaladi246" align="right" style="width:450px;" />
  </div>
 <br/>
+
 - 🌱 I’m currently learning **React**
 - 👨‍💻 All of my projects are available at [portfolio.com](portfolio.com)
 
