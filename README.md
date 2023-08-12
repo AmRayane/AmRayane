@@ -1,7 +1,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1&center=true&width=435&lines=Hi+I'm+Rayane+;A+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1&center=true&width=435&lines=Hi+I'm+Rayane+;I'm+a+Web+Developer)](https://git.io/typing-svg)
 
  <img src="./assets/gif3.gif" alt="jaiswaladi246" align="right" style="width:450px;" />
 
