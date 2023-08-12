@@ -13,12 +13,13 @@
 - 💬 Ask me about **React ,JavaSript & CSS**
 
 - 📫 How to reach me **ar.amlighrayane@gmail.com**
-
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/am._.rayane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="am._.rayane" height="30" width="40" /></a>
 </p>
 
+<br/>
 
 #### 💻 Technologies that I use
 ![HTML5](./assets/html.svg)   ![CSS3](./assets/css.svg)   ![TailwindCSS](./assets/tailwind.svg)    ![JavaScript](./assets/javascript.svg)    ![React](./assets/react.svg)
