@@ -1,7 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1&multiline=true&width=450&height=60&lines=Hy+I'm+Rayane;A+web+developer)](https://git.io/typing-svg)
 
-<h3 align="center">A passionate frontend developer from ALGERIA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrayane&label=Profile%20views&color=0e75b6&style=flat" alt="amrayane" /> </p>
 
