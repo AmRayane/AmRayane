@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&width=435&lines=Hy+I'm+Rayane;A+Web+Developer)](https://git.io/typing-svg)
 
 
-- 🌱 I’m currently learning <span style:"color:#61DBFB;">**React**</span>
+- 🌱 I’m currently learning <p style:"color:#61DBFB;display : block;">**React**</p>
 
 - 👨‍💻 All of my projects are available at [portfolio.com](portfolio.com)
 
