@@ -3,12 +3,14 @@
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1&center=true&width=435&lines=Hi+I'm+Rayane+;I'm+a+Web+Developer)](https://git.io/typing-svg)
 
- <img src="./assets/gif3.gif" alt="jaiswaladi246" align="right" style="width:450px;" />
+ <div>
+  <img src="./assets/gif3.gif" alt="jaiswaladi246" align="right" style="width:450px;" />
+ </div>
 
 - 🌱 I’m currently learning **React**
 - 👨‍💻 All of my projects are available at [portfolio.com](portfolio.com)
 
-- 💬 Ask me about **React ,js & css**
+- 💬 Ask me about **React ,JavaSript & CSS**
 
 - 📫 How to reach me **ar.amlighrayane@gmail.com**
 
