@@ -2,11 +2,11 @@
 
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1&center=true&width=435&lines=Hi+I'm+Rayane+;I'm+a+Web+Developer)](https://git.io/typing-svg)
-</br>
+<br/>
  <div style="height:100%;">
   <img src="./assets/gif3.gif" alt="jaiswaladi246" align="right" style="width:450px;" />
  </div>
-</br>
+<br/>
 - 🌱 I’m currently learning **React**
 - 👨‍💻 All of my projects are available at [portfolio.com](portfolio.com)
 
