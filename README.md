@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1&multiline=true&width=450&height=60&lines=Hy+I'm+Rayane;A+web+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&pause=1000&width=435&lines=Hy+I'm+Rayane;A+Web+Developer)](https://git.io/typing-svg)
 
 
 - 🌱 I’m currently learning **React**
