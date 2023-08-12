@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&multiline=true&width=450&height=60&lines=Hy+I'm+Rayane;A+web+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1000&pause=1000&multiline=true&width=450&height=60&lines=Hy+I'm+Rayane;A+web+developer)](https://git.io/typing-svg)
 
 <!--
 **AmRayane/AmRayane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
