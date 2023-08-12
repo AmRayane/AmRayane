@@ -1,4 +1,5 @@
-### Hi there 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=450&height=60&lines=Hy+I'm+Rayane)](https://git.io/typing-svg)
 
 <!--
 **AmRayane/AmRayane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
