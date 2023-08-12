@@ -4,8 +4,7 @@
 <br />
 <br />
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&pause=1000&width=435&lines=Hy+I'm+Rayane;A+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&width=435&lines=Hy+I'm+Rayane;A+Web+Developer)](https://git.io/typing-svg)
 
 
 - 🌱 I’m currently learning **React**
