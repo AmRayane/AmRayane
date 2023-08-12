@@ -2,7 +2,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1&multiline=true&width=450&height=60&lines=Hy+I'm+Rayane;A+web+developer)](https://git.io/typing-svg)
 
 
-
+#### 💻 Technologies that I use
+![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![Bootstrap](./assets/bootstrap.svg) ![TailwindCSS](./assets/tailwind.svg) ![JavaScript](./assets/javascript.svg) ![React](./assets/react.svg)
 
 
 
