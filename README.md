@@ -11,6 +11,10 @@ width : 141px,
 height : 48px,
 }
 
+img {
+height : 100%,
+width : 100%
 
+}
 
 
