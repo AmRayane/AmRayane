@@ -32,4 +32,13 @@ N’hésitez pas à me poser vos questions ou à discuter tech avec moi !
 
 > Merci d’avoir visité mon profil ! 🚀
 
-![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![TailwindCSS](./assets/tailwind.svg) ![JavaScript](./assets/javascript.svg) ![React](./assets/react.svg) <div display="inline-block"> <img src="./assets/styledcomponents.png" alt="styled-components" width="160" height="55" /> </div>
+<style>
+    .flex-box{
+        display : flex
+    }
+  .inline-box {
+    display: inline;
+  }
+</style>
+
+![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![TailwindCSS](./assets/tailwind.svg) ![JavaScript](./assets/javascript.svg) ![React](./assets/react.svg) <img class='inline-box' src="./assets/nav-logo.png" alt="styled-components" width="160" height="55" />
