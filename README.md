@@ -1,6 +1,6 @@
 # 👋 Salut, c'est Amligh Rayane
 
-🎓 Étudiant en 3ᵉ année de **Computer Science**, passionné par le **développement web**.   
+🎓 Étudiant en 3ᵉ année de **Computer Science**, passionné par le **développement web**.  
 Je suis actuellement concentré sur **React** et **JavaScript**, tout en découvrant **TypeScript** et **Next js**.
 
 ---
@@ -15,8 +15,8 @@ Je suis actuellement concentré sur **React** et **JavaScript**, tout en découv
 
 ## 🧰 Technologies & Outils
 
-Front-end : HTML CSS JavaScript React JS
-Bibliothèques & outils : `styled-components` `tailwindcss` `react-hook-form` `react-query` `recharts` `redux-toolkit`
+- \***\*Front-end\*\*** : HTML CSS JavaScript React JS
+- \***\*Bibliothèques & outils\*\*** : styled-components tailwindcss react-hook-form react-query recharts redux-toolkit
 
 ---
 
@@ -32,7 +32,4 @@ N’hésitez pas à me poser vos questions ou à discuter tech avec moi !
 
 > Merci d’avoir visité mon profil ! 🚀
 
-
-![HTML5](./assets/html.svg)   ![CSS3](./assets/css.svg)   ![TailwindCSS](./assets/tailwind.svg)    ![JavaScript](./assets/javascript.svg)    ![React](./assets/react.svg)  
-
-
+![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![TailwindCSS](./assets/tailwind.svg) ![JavaScript](./assets/javascript.svg) ![React](./assets/react.svg) <div display="inline-block"> <img src="./assets/styledcomponents.png" alt="styled-components" width="160" height="55" /> </div>
