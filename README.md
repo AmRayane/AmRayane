@@ -40,15 +40,3 @@ Feel free to reach out or connect with me!
 ![React](./assets/react.svg)
 ![TailwindCSS](./assets/tailwind.svg)
 <img class='styled' src="./assets/nav-logo.png" alt="styled-components" width="160" height="55" />
-
-<style>
-    .flex-box{
-        display : flex
-    }
-  .inline-box {
-    display: inline;
-  }
-  img.styled {
-    background-color : rgb(191, 79, 116)
-  }
-</style>
