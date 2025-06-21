@@ -15,8 +15,8 @@ Je suis actuellement concentré sur **React** et **JavaScript**, tout en découv
 
 ## 🧰 Technologies & Outils
 
-## Front-end : **HTML** **CSS** **JavaScript** **React JS**
-## Bibliothèques & outils : `styled-components` `tailwindcss` `react-hook-form` `react-query` `recharts` `redux-toolkit`
+Front-end : HTML CSS JavaScript React JS
+Bibliothèques & outils : `styled-components` `tailwindcss` `react-hook-form` `react-query` `recharts` `redux-toolkit`
 
 ---
 
