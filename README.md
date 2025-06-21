@@ -32,6 +32,15 @@ Feel free to reach out or connect with me!
 
 > Thanks for visiting my profile! 🚀
 
+
+
+![HTML5](./assets/html.svg)
+![CSS3](./assets/css.svg)
+![JavaScript](./assets/javascript.svg)
+![React](./assets/react.svg)
+![TailwindCSS](./assets/tailwind.svg)
+<img class='styled' src="./assets/nav-logo.png" alt="styled-components" width="160" height="55" />
+
 <style>
     .flex-box{
         display : flex
@@ -43,10 +52,3 @@ Feel free to reach out or connect with me!
     background-color : rgb(191, 79, 116)
   }
 </style>
-
-![HTML5](./assets/html.svg)
-![CSS3](./assets/css.svg)
-![JavaScript](./assets/javascript.svg)
-![React](./assets/react.svg)
-![TailwindCSS](./assets/tailwind.svg)
-<img class='styled' src="./assets/nav-logo.png" alt="styled-components" width="160" height="55" />
