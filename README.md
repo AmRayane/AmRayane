@@ -39,6 +39,10 @@ N’hésitez pas à me poser vos questions ou à discuter tech avec moi !
   .inline-box {
     display: inline;
   }
+  img.styled {
+    background-color : rgb(191, 79, 116)
+
+  }
 </style>
 
-![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![TailwindCSS](./assets/tailwind.svg) ![JavaScript](./assets/javascript.svg) ![React](./assets/react.svg) <img class='inline-box' src="./assets/nav-logo.png" alt="styled-components" width="160" height="55" />
+![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![TailwindCSS](./assets/tailwind.svg) ![JavaScript](./assets/javascript.svg) ![React](./assets/react.svg) <img class='styled' src="./assets/nav-logo.png" alt="styled-components" width="160" height="55" />
