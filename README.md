@@ -15,8 +15,8 @@ Currently focused on learning **React** and **JavaScript**, while exploring **Ty
 
 ## 🧰 Technologies & Tools
 
-- **Front-end**: HTML, CSS, JavaScript, React JS
-- **Libraries & Tools**: styled-components, Tailwind CSS, react-hook-form, react-query, Recharts, Redux Toolkit
+- **Front-end**: HTML, CSS, JavaScript,Typescript, React JS
+- **Libraries & Tools**: styled-components, Tailwind CSS, react-hook-form, react-query, Recharts, Redux Toolkit,Nect auth
 
 ---
 
