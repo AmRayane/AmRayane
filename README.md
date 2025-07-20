@@ -33,6 +33,7 @@ Feel free to reach out or connect with me!
 ![HTML5](./assets/html.svg)
 ![CSS3](./assets/css.svg)
 ![JavaScript](./assets/javascript.svg)
+![JavaScript](./assets/typescript.svg)
 ![React](./assets/react.svg)
 ![TailwindCSS](./assets/tailwind.svg)
 <img class='styled' src="./assets/nav-logo.png" alt="styled-components" width="160" height="55" />
