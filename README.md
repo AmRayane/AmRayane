@@ -16,7 +16,7 @@ Currently focused on learning **React** and **JavaScript**, while exploring **Ty
 ## 🧰 Technologies & Tools
 
 - **Front-end**: HTML, CSS, JavaScript,Typescript, React JS
-- **Libraries & Tools**: styled-components, Tailwind CSS, react-hook-form, react-query, Recharts, Redux Toolkit,Nect auth
+- **Libraries & Tools**: styled-components, Tailwind CSS, react-hook-form, react-query, Recharts, Redux Toolkit,Next auth
 
 ---
 
@@ -27,10 +27,6 @@ Feel free to reach out or connect with me!
 
 📧 **Email**: amligh.rayane.sd@gmail.com  
 🔗 **LinkedIn**: [www.linkedin.com/in/am-rayane](https://www.linkedin.com/in/am-rayane)
-
----
-
-> Thanks for visiting my profile! 🚀
 
 
 
