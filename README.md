@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Amligh Rayane
+# 👋 Hi , I'm Amligh Rayane
 
 🎓 I'm a 3rd-year **Computer Science student**, passionate about **web development**.  
 Currently focused on learning **React** and **JavaScript**, while exploring **TypeScript** and **Next.js**.
